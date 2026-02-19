@@ -1,0 +1,13 @@
+{
+  "name": "three",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@repo/one": "workspace:^",
+    "@repo/two": "workspace:^"
+  }
+}

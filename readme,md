@@ -1,0 +1,3 @@
+- pnpm install
+- pnpm build
+- open ./packages/three/index.ts and see difference ("one" is built with tsdown, "two" is built with bunup)
